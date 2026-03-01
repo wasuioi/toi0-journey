@@ -7,4 +7,4 @@ int main(){
     cout << "Hello " << a << " " << b << '\n';
     cout << a[0] << a[1] << b[0] << b[1];
     return 0;
-}
+} 
